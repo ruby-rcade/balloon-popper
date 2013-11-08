@@ -14,8 +14,5 @@ In addition to Gosu, this game uses a gem that I created called `rcade_controls`
 programming games that run on an arcade machine. If you're running this game on a desktop, you may have 
 trouble trying to figure out which keys to use. Here are the keyboard keys to control each player:
 
-> **Player 1:**
-> Control + Command
-
-> **Player 2:**
-> A & D
+> **Player 1:** Control + Spacebar
+> **Player 2:** A + Q
