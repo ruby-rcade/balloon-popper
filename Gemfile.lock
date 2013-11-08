@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.7.48)
+    rcade_controls (0.1.0)
+      gosu
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gosu
+  rcade_controls
