@@ -4,7 +4,7 @@ class Balloon
     @image = Gosu::Image.new(window, "media/#{color}-balloon.png", false)
     @pumper = Gosu::Image.load_tiles(window, "media/pumper.png", 150, 150, false)
     @popped = false
-    @current_size = 5.0
+    @current_size = 5.0 # 0 would be too small
     @pumper_state = 0
   end
 
